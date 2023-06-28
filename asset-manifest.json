@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Orbit-Job-Page/static/css/main.47c9c0e9.css",
+    "main.js": "/Orbit-Job-Page/static/js/main.a473c24d.js",
+    "static/js/787.fa908bdd.chunk.js": "/Orbit-Job-Page/static/js/787.fa908bdd.chunk.js",
+    "static/media/bannerIMG.png": "/Orbit-Job-Page/static/media/bannerIMG.23d89585f8066bcba384.png",
+    "static/media/phone-big-view.png": "/Orbit-Job-Page/static/media/phone-big-view.18236bbb7790e201195d.png",
+    "index.html": "/Orbit-Job-Page/index.html",
+    "main.47c9c0e9.css.map": "/Orbit-Job-Page/static/css/main.47c9c0e9.css.map",
+    "main.a473c24d.js.map": "/Orbit-Job-Page/static/js/main.a473c24d.js.map",
+    "787.fa908bdd.chunk.js.map": "/Orbit-Job-Page/static/js/787.fa908bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c9c0e9.css",
+    "static/js/main.a473c24d.js"
+  ]
+}
